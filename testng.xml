@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+  
+<suite name="LearnFramework" verbose="1" >
+   <test name="Regression">
+    <classes>
+      <class name="tests.Test_003"/>
+      <!-- <class name="tests.Test_005"/> -->
+      <class name="tests.Test_002"/>
+      <!-- <class name="tests.Test_003"/> -->
+    </classes>
+  </test>
+</suite>
