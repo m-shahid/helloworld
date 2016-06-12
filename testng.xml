@@ -5,7 +5,7 @@
     <classes>
       <class name="tests.Test_003"/>
       <!-- <class name="tests.Test_005"/> -->
-      <class name="tests.Test_002"/>
+      <!-- <class name="tests.Test_002"/> -->
       <!-- <class name="tests.Test_003"/> -->
     </classes>
   </test>
